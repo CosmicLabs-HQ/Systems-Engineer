@@ -1,5 +1,5 @@
-# Lead Systems Engineer - NatSec
-Founding Engineer role, with focus on US DoD programs and resilient MilCom
+# Lead Systems Engineer 
+Focus on systems-critical applications and environments, including National Security related
 
 Location: Brooklyn | San Francisco | Relocation Supported
 Type: Full-time | Competitive Pay + Equity
@@ -18,15 +18,15 @@ Start Date: ASAP
 - Must have prior experience working with the DoD, Intelligence Community, or U.S. federal civilian agencies
 - 4+ years of engineering experience in at least one of the following:
     - Embedded Systems: C/C++, Rust, real-time OS (FreeRTOS, Zephyr), firmware, secure boot
-    - AI/ML: PyTorch, JAX, TensorFlow; quantization, pruning, distillation, LoRA; ONNX, TensorRT, TVM
     - Networking/Infra: packet-level tuning, fallback and redundancy, protocol-level programming
-    - Strong systems-level skills, comfortable working close to hardware.
+    - Strong systems-level design skills and proof of expertise are critical
+    - Extremely comfortable working close to hardware
     - Experience in resource-constrained or mission-critical deployments 
 
 🧩 Bonus
 - Active or prior security clearance (TS/SCI, Secret, etc.)
 - Background in MILCOM, aerospace, or IC programs (NSA, DISA, Army/Navy, etc.)
-- Experience with contested networking: jamming resilience, disconnected ops, or distributed fallback comms.
+- Experience with contested networking: jamming resilience, disconnected ops, or distributed fallback comms
 - Prior work with secure radios, SDR/DSP, FPGA/SmartNIC, or embedded systems engineering + software-hardware deployment
 - Publications or open-source contributions in embedded AI, networking, or secure systems
 - Advanced degree (PhD or Master’s) in CS, EE, or related.
@@ -45,6 +45,7 @@ In the body:
 - Why this role and why Cosmic Labs
 - What you bring technically
 - Soonest available start date
+- Availability over next 5 days for a phone call
 - Education and years of experience
 - Confirmation of U.S. citizenship and prior DoD/IC/FedCiv experience
 
